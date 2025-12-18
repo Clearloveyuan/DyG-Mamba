@@ -32,6 +32,31 @@ TL,DR: DyG-Mamba is a novel **continuous-time state space model (SSM)** designed
 
 ---
 
+## Performance on Dynamic Graph Benchmarks
+
+
+
+---
+
+## 📌 Citation
+
+If you find this work helpful, we would appreciate it if you could cite our paper:
+
+```bibtex
+@inproceedings{Dyg-Mamba,
+  title     = {DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs},
+  author    = {Dongyuan Li and Shiyin Tan and Ying Zhang and Ming Jin and
+               Shirui Pan and Manabu Okumura and Renhe Jiang},
+  booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=ja2wA4UncJ}
+}
+```
+---
+
+
+
+
 ## ⚙️ Requirements
 
 This codebase is built upon and modified from  
@@ -130,23 +155,6 @@ python evaluate_node_classification.py \
   --dataset_name ${dataset_name} \
   --model_name DyG-Mamba \
   --gpu ${gpu}
-```
-
----
-
-## 📌 Citation
-
-If you find this work helpful, we would appreciate it if you could cite our paper:
-
-```bibtex
-@inproceedings{Dyg-Mamba,
-  title     = {DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs},
-  author    = {Dongyuan Li and Shiyin Tan and Ying Zhang and Ming Jin and
-               Shirui Pan and Manabu Okumura and Renhe Jiang},
-  booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-  year      = {2025},
-  url       = {https://openreview.net/forum?id=ja2wA4UncJ}
-}
 ```
 
 ---
