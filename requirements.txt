@@ -1,0 +1,6 @@
+numpy==1.25.2
+pandas==1.5.3
+torch==2.2.0
+tqdm==4.66.2
+tabulate
+mamba-ssm==1.2.0
