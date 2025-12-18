@@ -51,6 +51,7 @@ pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 \
 pip install tqdm tabulate scipy scikit-learn
 pip install mamba-ssm
 ```
+---
 
 ## 📊 Benchmarks & Preprocessing
 
@@ -82,6 +83,7 @@ cd preprocess_data/
 python preprocess_all_data.py
 ```
 
+---
 
 ## 🚀 Running the Code
 
@@ -92,7 +94,6 @@ DyG-Mamba supports:
   *(random / historical / inductive)*
 - Dynamic node classification
 
----
 
 ### 🔗 Dynamic Link Prediction (Training)
 
@@ -132,6 +133,7 @@ python evaluate_node_classification.py \
   --model_name DyG-Mamba \
   --gpu ${gpu}
 ```
+---
 
 ## 📌 Citation
 
@@ -148,6 +150,8 @@ If you find this work helpful, we would appreciate it if you could cite our pape
 }
 ```
 
+
+---
 
 ## 🤝 Acknowledgements
 
