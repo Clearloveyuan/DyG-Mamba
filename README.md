@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Task-Dynamic%20Graphs-orange.svg" />
 </p>
 
----
 
 ![Overall Framework](./Dyg-Mamba.jpg)
 
@@ -82,7 +81,6 @@ python preprocess_data.py --dataset_name wikipedia
 cd preprocess_data/
 python preprocess_all_data.py
 ```
-
 ---
 
 ## 🚀 Running the Code
@@ -133,6 +131,7 @@ python evaluate_node_classification.py \
   --model_name DyG-Mamba \
   --gpu ${gpu}
 ```
+
 ---
 
 ## 📌 Citation
@@ -149,7 +148,6 @@ If you find this work helpful, we would appreciate it if you could cite our pape
   url       = {https://openreview.net/forum?id=ja2wA4UncJ}
 }
 ```
-
 
 ---
 
