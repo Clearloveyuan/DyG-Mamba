@@ -34,7 +34,9 @@ TL,DR: DyG-Mamba is a novel **continuous-time state space model (SSM)** designed
 
 ## Performance on Dynamic Graph Benchmarks
 
+![](./Performance-1.png)
 
+![](./Performance-2.png)
 
 ---
 
