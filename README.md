@@ -23,6 +23,11 @@
 ![Overall Framework](./Dyg-Mamba.jpg)
 
 ---
+## Preprints
+
+[![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b.svg)](https://openreview.net/pdf?id=ja2wA4UncJ)
+
+---
 
 ## 🔍 Overview
 
