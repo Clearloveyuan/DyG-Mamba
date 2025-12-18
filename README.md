@@ -4,7 +4,7 @@
     <p>"Continuous State Space Modeling on Dynamic Graphs" (DyG-Mamba)</p>
 </h3>
 
-![Overall Framework](./Presentation_dygmaba.jpg)
+![Overall Framework](./DyG-Mamba.pdf)
 
 
 This is the code for "Continuous State Space Modeling on Dynamic Graphs" (`DyG-Mamba`).
